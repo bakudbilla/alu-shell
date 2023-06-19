@@ -1,1 +1,1 @@
-shell processes and signal files
+Shell, processes and signals
